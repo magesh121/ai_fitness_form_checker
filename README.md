@@ -294,7 +294,7 @@ mypy fitness_form_checker.py
 
 - **Author**: MAGESH K B
 - **Email**: mageshkb.aiml@gmail.com
-- **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/mageshkb)
+- **LinkedIn**: (https://www.linkedin.com/in/mageshkb/)
 
 ## 🌟 Show Your Support
 
